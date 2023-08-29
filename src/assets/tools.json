@@ -1,0 +1,172 @@
+{
+    "cards":[
+        {
+            "code": "mergepdf",
+            "name": "Merge PDF",
+            "label": "Merge PDF",
+            "description": "Combine PDFs in the order you want with the easiest PDF merger available.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code":"splitpdf",
+            "name": "Split PDF",
+            "label": "Split PDF",
+            "description": "Seperate one pageor a whole set for easy conversion into independent PDF files.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "compresspdf",
+            "name": "Compress PDF",
+            "label": "Compress PDf",
+            "description": "Reduce file size into optimizing for maximal PDF quality.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "pdftoword",
+            "name": "PDF to Word",
+            "label": "PDF to Word",
+            "description":"Easily convert your PDF files into easy to edit DOC and DOCX documents. The converted WORD document is almost 100% accurate.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "Powerpointtopdf",
+            "name": "Powerpoint to PDF",
+            "label": "Powerpoint to PDF",
+            "description": "Make PPT and PPTX slideshows easy to view by converting them to PDF.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "exceltopdf",
+            "name": "Excel to Pdf",
+            "label": "Excel to PDF",
+            "description": "Make EXCEL spreadsheets easy to read by converting them to PDF.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "editpdf",
+            "name": "Edit PDF",
+            "label": "Edit PDF",
+            "description": "Add text, images, shapes or freehand annotations to a PDF document. Edit the size, font, and color of the added content.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "pdftojpg",
+            "name": "PDF to JPG",
+            "label": "PDF to JPG",
+            "description": "Convert each PDF page into a JPG or extract all images contained in a PDF.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "jpgtopdf",
+            "name": "JPG TO PDF",
+            "label": "JPG TO PDF",
+            "description": "Convert JPG images to PDF in seconds. Easily adjust orientation and margins.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "signpdf",
+            "name": "Sign PDF",
+            "label": "Sign PDF",
+            "description": "Sign yourself or request electronic signatures from others.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "watermark",
+            "name": "Watermark",
+            "label": "Watermark",
+            "description": "Stamp an image or text over your PDF in seconds. Choose the typography, transparency and position.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "rotatepdf",
+            "name": "Rotate PDF",
+            "label": "Rotate PDF",
+            "description": "Rotate your PDFs the way you need them. You can even rotate multiple PDFs at once!",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "htmltopdf",
+            "name": "HTML to PDF",
+            "label": "HTML to PDF",
+            "description": "Convert webpages in HTML to PDF. Copy and paste the URL of the page you want and convert it to PDF with a click.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "unlockpdf",
+            "name": "unlock PDF",
+            "label": "Unlock PDF",
+            "description": "Remove PDF password security, giving you the freedom to use your PDFs as you want.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "protectpdf",
+            "name": "Protect PDF",
+            "label": "Protect PDF",
+            "description": "Protect PDF files with a password. Encrypt PDF documents to prevent unauthorized access.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "organizepdf",
+            "name": "Organize PDF",
+            "label": "Organize PDF",
+            "description": "Sort pages of your PDF file however you like. Delete PDF pages or add PDF pages to your document at your convenience.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "pdftopdf",
+            "name": "PDF to PDF/A",
+            "label": "PDF to PDF/A",
+            "description": "Transform your PDF to PDF/A, the ISO-standardized version of PDF for long-term archiving. Your PDF will preserve formatting when accessed in the future.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "repairpdf",
+            "name": "Repair PDF",
+            "label": "Repair PDF",
+            "description": "Repair a damaged PDF and recover data from corrupt PDF. Fix PDF files with our Repair tool.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "pagenumber",
+            "name": "Page Number",
+            "label": "Page Number",
+            "description": "Add page numbers into PDFs with ease. Choose your positions, dimensions, typography.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "scantopdf",
+            "name": "Scan to PDF",
+            "label": "Scan to PDF",
+            "description": "Capture document scans from your mobile device and send them instantly to your browser.",
+            "iconURL": "",
+            "addressUrl": ""
+        },
+        {
+            "code": "ocrpdf",
+            "name": "OCR PDF",
+            "label": "OCR PDF",
+            "description": "Easily convert scanned PDF into searchable and selectable documents.",
+            "iconURL": "",
+            "addressUrl": ""
+        }
+    ]
+}
