@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ToolsItemComponent } from './tools-item.component';
+import { ToollistComponent } from './toollist.component';
 
-describe('ToolsItemComponent', () => {
-  let component: ToolsItemComponent;
-  let fixture: ComponentFixture<ToolsItemComponent>;
+describe('ToollistComponent', () => {
+  let component: ToollistComponent;
+  let fixture: ComponentFixture<ToollistComponent>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [ToolsItemComponent]
+      declarations: [ToollistComponent]
     });
-    fixture = TestBed.createComponent(ToolsItemComponent);
+    fixture = TestBed.createComponent(ToollistComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

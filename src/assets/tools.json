@@ -5,7 +5,7 @@
             "name": "Merge PDF",
             "label": "Merge PDF",
             "description": "Combine PDFs in the order you want with the easiest PDF merger available.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -13,7 +13,7 @@
             "name": "Split PDF",
             "label": "Split PDF",
             "description": "Seperate one pageor a whole set for easy conversion into independent PDF files.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -21,7 +21,7 @@
             "name": "Compress PDF",
             "label": "Compress PDf",
             "description": "Reduce file size into optimizing for maximal PDF quality.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -29,7 +29,7 @@
             "name": "PDF to Word",
             "label": "PDF to Word",
             "description":"Easily convert your PDF files into easy to edit DOC and DOCX documents. The converted WORD document is almost 100% accurate.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -37,7 +37,7 @@
             "name": "Powerpoint to PDF",
             "label": "Powerpoint to PDF",
             "description": "Make PPT and PPTX slideshows easy to view by converting them to PDF.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -45,7 +45,7 @@
             "name": "Excel to Pdf",
             "label": "Excel to PDF",
             "description": "Make EXCEL spreadsheets easy to read by converting them to PDF.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -53,7 +53,7 @@
             "name": "Edit PDF",
             "label": "Edit PDF",
             "description": "Add text, images, shapes or freehand annotations to a PDF document. Edit the size, font, and color of the added content.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -61,7 +61,7 @@
             "name": "PDF to JPG",
             "label": "PDF to JPG",
             "description": "Convert each PDF page into a JPG or extract all images contained in a PDF.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -69,7 +69,7 @@
             "name": "JPG TO PDF",
             "label": "JPG TO PDF",
             "description": "Convert JPG images to PDF in seconds. Easily adjust orientation and margins.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -77,7 +77,7 @@
             "name": "Sign PDF",
             "label": "Sign PDF",
             "description": "Sign yourself or request electronic signatures from others.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -85,7 +85,7 @@
             "name": "Watermark",
             "label": "Watermark",
             "description": "Stamp an image or text over your PDF in seconds. Choose the typography, transparency and position.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -93,7 +93,7 @@
             "name": "Rotate PDF",
             "label": "Rotate PDF",
             "description": "Rotate your PDFs the way you need them. You can even rotate multiple PDFs at once!",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -101,7 +101,7 @@
             "name": "HTML to PDF",
             "label": "HTML to PDF",
             "description": "Convert webpages in HTML to PDF. Copy and paste the URL of the page you want and convert it to PDF with a click.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -109,7 +109,7 @@
             "name": "unlock PDF",
             "label": "Unlock PDF",
             "description": "Remove PDF password security, giving you the freedom to use your PDFs as you want.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -117,7 +117,7 @@
             "name": "Protect PDF",
             "label": "Protect PDF",
             "description": "Protect PDF files with a password. Encrypt PDF documents to prevent unauthorized access.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -125,7 +125,7 @@
             "name": "Organize PDF",
             "label": "Organize PDF",
             "description": "Sort pages of your PDF file however you like. Delete PDF pages or add PDF pages to your document at your convenience.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -133,7 +133,7 @@
             "name": "PDF to PDF/A",
             "label": "PDF to PDF/A",
             "description": "Transform your PDF to PDF/A, the ISO-standardized version of PDF for long-term archiving. Your PDF will preserve formatting when accessed in the future.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -141,7 +141,7 @@
             "name": "Repair PDF",
             "label": "Repair PDF",
             "description": "Repair a damaged PDF and recover data from corrupt PDF. Fix PDF files with our Repair tool.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -149,7 +149,7 @@
             "name": "Page Number",
             "label": "Page Number",
             "description": "Add page numbers into PDFs with ease. Choose your positions, dimensions, typography.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -157,7 +157,7 @@
             "name": "Scan to PDF",
             "label": "Scan to PDF",
             "description": "Capture document scans from your mobile device and send them instantly to your browser.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         },
         {
@@ -165,7 +165,7 @@
             "name": "OCR PDF",
             "label": "OCR PDF",
             "description": "Easily convert scanned PDF into searchable and selectable documents.",
-            "iconURL": "",
+            "iconURL": "https://inetconnexion.com/assets/images/technology/style3/1.png",
             "addressUrl": ""
         }
     ]
